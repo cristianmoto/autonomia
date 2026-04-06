@@ -1,0 +1,26 @@
+# Python
+__pycache__/
+*.pyc
+
+# Entornos virtuales
+venv/
+.env/
+
+# Datos
+*.csv
+
+# Imágenes generadas
+*.png
+
+# Java / Eclipse / Maven (por lo que veo en tu caso)
+*.jar
+*.asc
+.p2/
+.metadata/
+
+# Sistema
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
